@@ -68,8 +68,9 @@ const About = () => {
                     </div>
 
                     <div className='flex flex-col w-2/3 md:w-2/3 text-gray-700'>
-                        Frontend developer, I create web pages with UI / UX user interface. I have years of experience, and many clients are happy with the projects carried out.
-                    </div>
+                    GATE qualified computer science Enginer skilled in Java,JavaScript, CSS3, HTML5 , BootStrap , Next js, Express js, Tailwind CSS, Socket io, React js, Node js, Redux, MongoDB, MySQL, Appwrite, SQL, Framer Motion and Data Structures.
+                          </div>
+
                     <button onClick={handleDownload} className='bg-zinc-800 text-white px-4 py-2 mt-4 rounded w-1/3 md:w-1/5'>
                         Download CV
                     </button>

@@ -10,15 +10,14 @@ export default function Home() {
         initial={{ opacity: 0, y: 0 }}
         animate={{ opacity: 1, y: 50 }}
         transition={{ duration: 0.8 }}
-        className="flex flex-col items-center"
+        className="flex flex-col items-center "
       >
         <motion.h1
           
-          className="text-4xl font-bold">Vinay Sohaliya</motion.h1>
-        <h2 className="text-2xl font-semibold">Web Developer</h2>
-        <p className="mt-4 w-1/2 ">
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+          className="text-4xl  font-bold">Vinay Sohaliya</motion.h1>
+        <h2 className="text-2xl font-semibold">Software Developer</h2>
+        <p className="mt-4 w-2/3 ">
+        GATE qualified computer science Enginer skilled in  Java,JavaScript, CSS3, HTML5 , BootStrap , Next js, Express js, Tailwind CSS, Socket io, React js, Node js, Redux, MongoDB, MySQL, Appwrite, SQL, Framer Motion and Data Structures.
         </p>
       </motion.div>
 
